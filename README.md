@@ -11,6 +11,9 @@ An editor, a system designer or any kind of users of editing systems who interac
 
 An intelligence agent observes the user interaction and helps the users. 
 
+*Environment*
+
+TConnect Editor
 
 
 
