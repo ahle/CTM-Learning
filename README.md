@@ -33,7 +33,7 @@ Four basic types in order of increasing generality:
 * All these can be turned into learning agents
 
 Obviously, in the 1st case, if the user acts as simple reflex agent.
-The A-Model in CTM method provides a very good way to modelize the condition of user action. 
+The A-Model in CTM method provides a very good way to learn the conditions of user action. 
 
 
 
