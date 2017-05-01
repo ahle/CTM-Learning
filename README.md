@@ -22,6 +22,18 @@ TConnect Editor v0, the enviroment types is defined:
 * Discrete (vs. continuous)
 * Single agent (vs. multiagent)
 
+Our environment of course is semi-dynamic because the world state could change while the user correct the documents.
+
+[comment]: <> (This is a comment, it will not be included)
+
+
+
+
+
+
+
+
+
 
 
 
