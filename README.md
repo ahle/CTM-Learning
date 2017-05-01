@@ -13,7 +13,13 @@ An intelligence agent observes the user interaction and helps the users.
 
 *Environment*
 
-TConnect Editor
+TConnect Editor v0, the enviroment types is defined: 
+Fully observable (vs. partially observable)
+Deterministic (vs. stochastic)
+Episodic (vs. sequential)
+Static (vs. dynamic)
+Discrete (vs. continuous)
+Single agent (vs. multiagent)
 
 
 
