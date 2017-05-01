@@ -22,9 +22,20 @@ TConnect Editor v0, the enviroment types is defined:
 * Discrete (vs. continuous)
 * Single agent (vs. multiagent)
 
-Our environment of course is semi-dynamic because the world state could change while the user correct the documents.
+Our environment is semi-dynamic, partially observable, stochastic, sequential, discrete and multiagent.
 
-[comment]: <> (This is a comment, it will not be included)
+We assume that the human agents could be different based on their personalization.
+Four basic types in order of increasing generality:
+* Simple reflex agents
+* Reflex agents with state
+* Goal-based agents
+* Utility-based agents
+* All these can be turned into learning agents
+
+Obviously, in the 1st case, if the user acts as simple reflex agent.
+The A-Model in CTM method provides a very good way to modelize the condition of user action. 
+
+
 
 
 
